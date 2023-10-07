@@ -50,4 +50,10 @@
   }
 
 
+  .button-column2 {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    column-gap: 30px;
+  }
+
   
