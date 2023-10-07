@@ -52,6 +52,7 @@
 
   .button-column2 {
     display: grid;
+    margin-top: 200px;
     grid-template-columns:1fr 1fr;
     column-gap: 30px;
   }

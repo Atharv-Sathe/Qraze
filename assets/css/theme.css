@@ -4819,7 +4819,7 @@ fieldset:disabled .btn {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding-top: 0.5rem;
+  /* padding-top: 0.5rem; */
   padding-right: 1rem;
   padding-bottom: 0.5rem;
   padding-left: 1rem;
@@ -9247,7 +9247,9 @@ fieldset:disabled .btn {
 }
 
 .pt-2 {
-  padding-top: 0.5rem !important;
+  height: 50px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
 }
 
 .pt-3 {
@@ -9447,7 +9449,7 @@ fieldset:disabled .btn {
 }
 
 .fs-2 {
-  font-size: 1.26563rem !important;
+  /* font-size: 1.26563rem !important; */
 }
 
 .fs-3 {
